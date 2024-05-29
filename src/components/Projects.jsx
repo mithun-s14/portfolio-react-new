@@ -148,7 +148,7 @@ const Projects = () => {
                   Java
                 </span>
                 <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
-                  J Unit
+                  JUnit
                 </span>
                 <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
                   Alpha Vantage API

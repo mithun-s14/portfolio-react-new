@@ -10,8 +10,8 @@ const Home = () => {
             <p className='text-[#38A5FF]'>Hi, my name is</p>
             <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6] py-1'>Mithun Sivapathasundram</h1>
             <h2 className='text-2xl sm:text-5xl font-bold text-[#8892b0] py-1'>3rd year CS Student.</h2>
-            <p className='text-[#363a47] pt-2 pb-4max-w-[700px]'>
-                Currently seeking Fall 2024 internships
+            <p className='text-gray-500 pt-2 pb-4max-w-[700px]'>
+            🔍 Currently seeking Fall 2024 internships
             </p>
             <div>
                 <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-[#38A5FF] hover:border-[#38A5FF]'>View Work 

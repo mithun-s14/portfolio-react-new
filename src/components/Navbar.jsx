@@ -1,7 +1,6 @@
 import React, {useState} from 'react'
 import {FaBars, FaTimes, FaGithub, FaLinkedin} from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
-import Logo from '../assets/react.png'
 import {Link} from 'react-scroll'
 
 const Navbar = () => {
@@ -11,7 +10,6 @@ const Navbar = () => {
   return (
     <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300'>
       <div>
-        <img src={Logo} alt='Logo Image' style={{ width: '50px' }}/>
       </div>
 
       {/* Top Right Menu */}
@@ -31,11 +29,12 @@ const Navbar = () => {
 
         {/* Mobile Menu */}
         <ul className={!nav ? 'hidden' : 'absolute top-0 left-0 w-full h-screen bg-[#0a192f] flex flex-col justify-center items-center'}>
-            <li className='py-6 text-4xl'><Link onClick={handleClick} activeClass="active" to="home" smooth={true} duration={500}>Home</Link></li>
-            <li className='py-6 text-4xl'><Link onClick={handleClick} activeClass="active" to="about" smooth={true} duration={500}>About</Link></li>
-            <li className='py-6 text-4xl'><Link onClick={handleClick} activeClass="active" to="skills" smooth={true} duration={500}>Skills</Link></li>
-            <li className='py-6 text-4xl'><Link onClick={handleClick} activeClass="active" to="work" smooth={true} duration={500}>Work</Link></li>
-            <li className='py-6 text-4xl'><Link onClick={handleClick} activeClass="active" to="contact" smooth={true} duration={500}>Contact</Link></li>
+            <li className='hover:text-[#38A5FF] py-6 text-4xl text-white'><Link onClick={handleClick} activeClass="active" to="home" smooth={true} duration={500}>Home</Link></li>
+            <li className='hover:text-[#38A5FF] py-6 text-4xl text-white'><Link onClick={handleClick} activeClass="active" to="about" smooth={true} duration={500}>About</Link></li>
+            <li className='hover:text-[#38A5FF] py-6 text-4xl text-white'><Link onClick={handleClick} activeClass="active" to="skills" smooth={true} duration={500}>Skills</Link></li>
+            <li className='hover:text-[#38A5FF] py-6 text-4xl text-white'><Link onClick={handleClick} activeClass="active" to="work" smooth={true} duration={500}>Work</Link></li>
+            <li className='hover:text-[#38A5FF] py-6 text-4xl text-white'><Link onClick={handleClick} activeClass="active" to="projects" smooth={true} duration={500}>Projects</Link></li>
+            <li className='hover:text-[#38A5FF] py-6 text-4xl text-white'><Link onClick={handleClick} activeClass="active" to="contact" smooth={true} duration={500}>Contact</Link></li>
         </ul>
 
         {/* Social Icons */}

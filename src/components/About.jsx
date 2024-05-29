@@ -14,16 +14,15 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
-            <p>Hello, welcome to my website!</p>
+            <p>👋 Hello, welcome to my website!</p>
           </div>
           <div>
             <p>
-              I'm Mithun, a 3rd year Computer Science student. In my 7 years of programming experience, I've experienced some of the diversity 
+              I'm a 3rd year Computer Science student at Toronto Metropolitan University. In my 7 years of programming experience, I've experienced some of the diversity 
               computer science holds, such as developing relational database management systems, leveraging Python for data science, exploring 
-              different machine learning models, employing modern technologies in web development, and many more. I attend Toronto Metropolitan
-              University, where I've had the opportunity to dabble into different programming languages and opportunities. I am also currently
-              completing an 8 month internship at the Treasury Board Secretariat where I've been able to further sharpen my full-stack development
-              skills and learn how to develop in a professional environment. 
+              different machine learning models, employing modern technologies in web development, and many more. During my time at University
+              I've had the opportunity to dabble into different programming languages and opportunities. I am also currently completing an 8 month internship
+              at the Treasury Board Secretariat where I've been able to further sharpen my full-stack development skills and learn how to develop in a professional environment. 
               Please feel free to reach out to me if you would like to chat or talk about any opportunities!
             </p>
           </div>
