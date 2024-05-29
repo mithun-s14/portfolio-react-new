@@ -14,13 +14,6 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
-<<<<<<< HEAD
-            <p>Hello, I'm Mithun!</p>
-          </div>
-          <div>
-            <p>
-              I am currently in the middle of my 3rd year of Computer Science at Toronto Metropolitan University.
-=======
             <p>Hello, welcome to my website!</p>
           </div>
           <div>
@@ -32,7 +25,6 @@ const About = () => {
               completing an 8 month internship at the Treasury Board Secretariat where I've been able to further sharpen my full-stack development skills and
               learn how to develop in a professional environment. 
               If you want to chat or talk about any opportunities, feel free to reach out to me!
->>>>>>> 7a3f0a85e8fcf28e2140d308a53a119b2adeb418
             </p>
           </div>
         </div>
