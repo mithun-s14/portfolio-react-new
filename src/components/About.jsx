@@ -14,15 +14,11 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold">
-            <p>Hi. I'm Mithun, nice to meet you. Take a look around</p>
+            <p>Hello, I'm Mithun!</p>
           </div>
           <div>
             <p>
-              Loren ipsum. Loren ipsum. Loren ipsum. Loren ipsum. Loren ipsum.
-              Loren ipsum. Loren ipsum. Loren ipsum. Loren ipsum. Loren ipsum.
-              Loren ipsum. Loren ipsum. Loren ipsum. Loren ipsum. Loren ipsum.
-              Loren ipsum. Loren ipsum. Loren ipsum. Loren ipsum. Loren ipsum.
-              Loren ipsum. Loren ipsum. Loren ipsum. Loren ipsum.
+              I am currently in the middle of my 3rd year of Computer Science at Toronto Metropolitan University.
             </p>
           </div>
         </div>
