@@ -24,7 +24,7 @@ const About = () => {
               University, where I've had the opportunity to dabble into different programming languages and opportunities. I am also currently
               completing an 8 month internship at the Treasury Board Secretariat where I've been able to further sharpen my full-stack development skills and
               learn how to develop in a professional environment. 
-              Feel free to contact me by scrolling and entering your information at the bottom of the page!
+              If you want to chat or talk about any opportunities, feel free to reach out to me!
             </p>
           </div>
         </div>
