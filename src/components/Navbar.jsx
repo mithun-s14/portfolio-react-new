@@ -20,6 +20,7 @@ const Navbar = () => {
             <li><Link className='hover:text-[#38A5FF]' activeClass="active" to="about" smooth={true} duration={500}>About</Link></li>
             <li><Link className='hover:text-[#38A5FF]' activeClass="active" to="skills" smooth={true} duration={500}>Skills</Link></li>
             <li><Link className='hover:text-[#38A5FF]' activeClass="active" to="work" smooth={true} duration={500}>Work</Link></li>
+            <li><Link className='hover:text-[#38A5FF]' activeClass="active" to="projects" smooth={true} duration={500}>Projects</Link></li>
             <li><Link className='hover:text-[#38A5FF]' activeClass="active" to="contact" smooth={true} duration={500}>Contact</Link></li>
         </ul>
 
