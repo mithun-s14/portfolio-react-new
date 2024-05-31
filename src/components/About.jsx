@@ -18,10 +18,10 @@ const About = () => {
           </div>
           <div>
             <p>
-              I'm a 3rd year Computer Science student at Toronto Metropolitan University. In my 7 years of programming experience, I've experienced some of the diversity 
+              I'm a 3rd year Computer Science student at Toronto Metropolitan University. In my 7 years of programming experience, I've encountered some of the diversity 
               computer science holds, such as developing relational database management systems, leveraging Python for data science, exploring 
               different machine learning models, employing modern technologies in web development, and many more. During my time at University
-              I've had the opportunity to dabble into different programming languages and opportunities. I am also currently completing an 8 month internship
+              I've had the opportunity to dabble in different programming languages and opportunities. I am also currently completing an 8-month internship
               at the Treasury Board Secretariat where I've been able to further sharpen my full-stack development skills and learn how to develop in a professional environment. 
               Please feel free to reach out to me if you would like to chat or talk about any opportunities!
             </p>
