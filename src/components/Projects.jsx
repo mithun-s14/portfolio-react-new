@@ -18,6 +18,42 @@ const Projects = () => {
           <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center">
             <div className="flex flex-col">
               <p className="mb-2 font-semibold text-lg">
+                Olympic Medal Predictor -{" "}
+                <span className="text-sm text-[#38A5FF]">
+                  Personal Project
+                </span>
+              </p>
+              <ol className="text-gray-300 mb-4 text-sm">
+                <li className="py-1">
+                  Developed and trained a linear regression model to predict the amount of medals a 
+                  country will win based on past results.
+                </li>
+              </ol>
+              <div className="flex flex-wrap space-x-2">
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Python
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Jupyter Notebook
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  Pandas
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  seaborn
+                </span>
+                <span className="mt-1 rounded bg-[#2f343d53] px-2 py-1 text-sm font-medium text-[#38A5FF]">
+                  scikit-learn
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div className="w-full mt-8">
+          <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center">
+            <div className="flex flex-col">
+              <p className="mb-2 font-semibold text-lg">
                 Smart Recruiter -{" "}
                 <span className="text-sm text-[#38A5FF]">
                   OPS Phenomenal Hackathon
